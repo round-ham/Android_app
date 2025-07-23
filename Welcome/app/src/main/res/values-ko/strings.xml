@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Welcome</string>
+    <string name="welcome">Android Studio에 오신 것을 환영합니다.</string>
+    <string name="android_logo" />
+</resources>
